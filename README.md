@@ -70,40 +70,42 @@
         </tr>
         <tr>
             <td colspan="6">
-                <img class="owl-item-image owl-lazy" data-src="https://www.magezon.com/pub/media/advanced-contact-form/Auto-responder.png" src="https://www.magezon.com/pub/media/advanced-contact-form/Auto-responder.png" alt="Magento 2 Advanced Contact Form | Auto-responder" style="opacity: 1;">
-            </td>
-            <td colspan="6">
               <h3>Auto-responder email to customers</h3>
               <p>Generally, when a form is successfully submitted, you as an admin will receive an email notification. But how about customers? Shouldn't they get one as well?&nbsp</p>
               <p>Enhance professionalism by using auto-responder feature. It will automatically send a confirmation email to customers after they complete the form. It takes only 1 click to enable/disable this feature.</p>
             </td>
+            <td colspan="6">
+                <img class="owl-item-image owl-lazy" data-src="https://www.magezon.com/pub/media/advanced-contact-form/Auto-responder.png" src="https://www.magezon.com/pub/media/advanced-contact-form/Auto-responder.png" alt="Magento 2 Advanced Contact Form | Auto-responder" style="opacity: 1;">
+            </td>
         </tr>
         <tr>
+            <td colspan="6">
+              <img class="owl-item-image owl-lazy" data-src="https://www.magezon.com/pub/media/advanced-contact-form/Customize_and_choose_email_templates.png" src="https://www.magezon.com/pub/media/advanced-contact-form/Customize_and_choose_email_templates.png" alt="Magezon Advanced Contact Form | Customize templates" style="opacity: 1;">
+            </td>
             <td colspan="6">
                 <h3>Customize form confirmation email template in the backend</h3>
               <p>Now you have various options for email template customization in the backend. </p>
               <p>For convenience, pick one of our available templates for auto-reply email.</p>
               <p>Or if you feel like adding a personal touch, simply create your own ones.</p>
             </td>
-            <td colspan="6">
-              <img class="owl-item-image owl-lazy" data-src="https://www.magezon.com/pub/media/advanced-contact-form/Customize_and_choose_email_templates.png" src="https://www.magezon.com/pub/media/advanced-contact-form/Customize_and_choose_email_templates.png" alt="Magezon Advanced Contact Form | Customize templates" style="opacity: 1;">
-            </td>
         </tr>
         <tr>
-            <td colspan="6">
-                <img class="owl-item-image owl-lazy" data-src="https://www.magezon.com/pub/media/advanced-contact-form/Support_multiple_stores_and_languages.png" src="https://www.magezon.com/pub/media/advanced-contact-form/Support_multiple_stores_and_languages.png" alt="Advanced contact form by Magezon | Support Multiple stores and languages" style="opacity: 1;">
-            </td>
             <td colspan="6">
               <h3>Support multiple stores and languages</h3>
               <p>Configure auto-response email for different stores and languages. This feature is to make sure that a customer who comes to English storeview will receive an email in English, and so on. It’s particularly beneficial for international businesses that have stores targeting multiple nations. </p>
             </td>
+            <td colspan="6">
+                <img class="owl-item-image owl-lazy" data-src="https://www.magezon.com/pub/media/advanced-contact-form/Support_multiple_stores_and_languages.png" src="https://www.magezon.com/pub/media/advanced-contact-form/Support_multiple_stores_and_languages.png" alt="Advanced contact form by Magezon | Support Multiple stores and languages" style="opacity: 1;">
+            </td>
         </tr>
         <tr>
-            <td colspan="12" align="center">
+            <td colspan="6">
+               <img class="mgz-hover-main" src="https://www.magezon.com/pub/media/advanced-contact-form/Ajax_submission_and_change_loading_icon.png" alt="Ajax submission and change loading icon" title="">
+            </td>
+            <td colspan="6" align="center">
                 <h2>Ajax submission </h2>
                 <p>Ajax-enabled form allows visitors to simply click the send button and submit the form without reloading the page. It makes your site faster, more interactive, and user-friendly. A great way to enhance user experience!</p>
                 <p><br>Feel free to change, customize the loading icon to upgrade your site’s overall aesthetic. Icons in png, gif, and pdf are supported. </p>
-                <img class="mgz-hover-main" src="https://www.magezon.com/pub/media/advanced-contact-form/Ajax_submission_and_change_loading_icon.png" alt="Ajax submission and change loading icon" title="">
             </td>
         </tr>
         <tr>
