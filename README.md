@@ -1,5 +1,5 @@
 <html>
-  <h1><a href="https://www.magezon.com/magento-2-image-gallery.html">Magento 2 Image Gallery Extension</a></h1>
+  <h1><a href="https://www.magezon.com/magento-2-image-gallery.html">Magento 2 Advanced Contact</a></h1>
   <br/><br/>
   <table>
       <tr>
