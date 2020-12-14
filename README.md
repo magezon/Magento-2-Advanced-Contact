@@ -1,10 +1,10 @@
 <html>
-  <h1><a href="https://www.magezon.com/magento-2-image-gallery.html">Magento 2 Advanced Contact</a></h1>
+  <h1><a href="https://www.magezon.com/magento-2-advanced-contact-form.html">Magento 2 Advanced Contact</a></h1>
   <br/><br/>
   <table>
       <tr>
           <td width="30%" valign="top" style="border: none; ">
-              <br><a href="https://www.magezon.com/magento-2-image-gallery.html"><img src="https://www.magezon.com/pub/media/catalog/product/cache/c56f5c50a53ae6d445bac4bece78644e/a/d/advanced_contact_form_logo.jpg"/></a>
+              <br><a href="https://www.magezon.com/magento-2-advanced-contact-form.html"><img src="https://www.magezon.com/pub/media/catalog/product/cache/c56f5c50a53ae6d445bac4bece78644e/a/d/advanced_contact_form_logo.jpg"/></a>
           </td>
           <td style="border:none;"></br>
               <div class="product attribute overview">
@@ -211,9 +211,9 @@
                 <p align="center">We provide Video Tutorials with visual guidance for using the extension. Besides, you can use <a href="https://magezon.com/pub/media/productfile/imagegallery-v1.0.0-user_guides.pdf" target="_blank" rel="nofollow">User Guide</a> for every tiny detail.</p>
             </td>
             <td colspan="4">
-                <img src="https://www.magezon.com/pub/media/image-gallery/magento-2-image-gallery_1.png" alt="Magento 2 Image Gallery Extension" title="Magento 2 Image Gallery Extension" width="347" height="177">
+               <img class="mgz-hover-main" src="https://www.magezon.com/pub/media/admin-search/admin-search-extension-lifetime-updates.png" alt="LifeTime Updates Free of Charge" width="324" height="177" title="LifeTime Updates Free of Charge">
                 <h3 align="center">LifeTime Updates Free of Charge </h3>
-                <p align="center">We guarantee that you don’t have to pay for any <b>Magento 2 Image Gallery Extension</b> update. Make a one-time payment and you will get FREE lifetime updates.</p>
+                <p align="center">We guarantee that you don’t have to pay for any <b>Magento 2 Advanced Contact Form</b> update. Make a one-time payment and you will get FREE lifetime updates.</p>
             </td>
         </tr>
       <tr id="features-full">
