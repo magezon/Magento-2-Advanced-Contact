@@ -12,7 +12,7 @@
                       <p dir="ltr"><span><strong>Magento 2 Advanced Contact Form</strong> </span><span> extension replaces default contact form with a more advanced form. It allows users to monitor the contact info of customers from the backend, set up auto-responder, and customize email templates.</span></p>
                       <ul class="firebase-list">
                           <li><a href="#Quickly-access-form-database-from-the-admin-panel">Quickly access form database from the backend</a></li>
-                          <li><a href="#Easily-modify-enquiry-data ">Easily modify enquiry data</a></li>
+                          <li><a href="#Easily-modify-enquiry-data">Easily modify enquiry data</a></li>
                           <li><a href="#Reply-email-right-from-the-backend">Reply email right from the backend</a></li>
                           <li><a href="#Advanced-response-email-features">Advanced response email features</a></li>
                           <li><a href="#Ajax-submission">Ajax submission</a></li>
@@ -38,14 +38,14 @@
   <div>
     <h1>Feature Highlights</h1>
     <table>
-        <tr id="show-images-videos-with-appealing-effects">
+        <tr id="Quickly-access-form-database-from-the-admin-panel">
             <td colspan="12" align="center">
                 <h2>Quickly access form database from admin panel </h2>
                 <p style="text-align: center;"><span><b>Magezon Advanced Contact Form</b><span style="font-weight: 400;"> creates efficient data management by storing form details right in the admin panel. Form data including customer information and inquiries is safely saved. Quickly access to these info anytime you want by simply hitting the </span><b>Contacts</b><span style="font-weight: 400;">.</span></span></p>
                 <img class="mgz-hover-main" src="https://www.magezon.com/pub/media/advanced-contact-form/Quickly_access_form_database_from_admin_panel.png" alt="Quickly access form database from admin panel" title="">
             </td>
         </tr>
-        <tr>
+        <tr id="Easily-modify-enquiry-data">
             <td colspan="6">
                 <h2>Easily modify inquiry data </h2>
                 <p><span style="color: #293852;"><span style="font-weight: 400;">Effortlessly organize form data by multiple modification options. You can address the status for each query such as </span><b>Pending</b><span style="font-weight: 400;">, </span><b>Answered</b><span style="font-weight: 400;">, </span><b>Closed </b><span style="font-weight: 400;">or delete them.</span></span></p>
@@ -54,7 +54,7 @@
                 <img class="mgz-hover-main" src="https://www.magezon.com/pub/media/advanced-contact-form/Easily_modify_inquiry_data.png" alt="Easily modify inquiry data" title="">
             </td>
         </tr>
-        <tr>
+        <tr id="Reply-email-right-from-the-backend">
             <td colspan="6">
               <img class="mgz-hover-main" src="https://www.magezon.com/pub/media/advanced-contact-form/Reply_from_the_backend.png" alt="Reply email right from the backend" title="">
             </td>
@@ -63,7 +63,7 @@
                 <p><span style="font-weight: 400;">No need to open any email app because </span><b>Advanced Contact Form by Magezon </b><span style="font-weight: 400;">allows you to reply to customers instantly from the backend. Simply insert a title and start crafting your email content with various text options.</span></p>
             </td>
         </tr>
-        <tr id="more-stunning-features">
+        <tr id="Advanced-response-email-features">
             <td colspan="12">
               <h2> Advanced response email features </h2>
             </td>
@@ -98,7 +98,7 @@
                 <img class="owl-item-image owl-lazy" data-src="https://www.magezon.com/pub/media/advanced-contact-form/Support_multiple_stores_and_languages.png" src="https://www.magezon.com/pub/media/advanced-contact-form/Support_multiple_stores_and_languages.png" alt="Advanced contact form by Magezon | Support Multiple stores and languages" style="opacity: 1;">
             </td>
         </tr>
-        <tr>
+        <tr id="Ajax-submission">
             <td colspan="6">
                <img class="mgz-hover-main" src="https://www.magezon.com/pub/media/advanced-contact-form/Ajax_submission_and_change_loading_icon.png" alt="Ajax submission and change loading icon" title="">
             </td>
@@ -108,7 +108,7 @@
                 <p><br>Feel free to change, customize the loading icon to upgrade your site’s overall aesthetic. Icons in png, gif, and pdf are supported. </p>
             </td>
         </tr>
-        <tr>
+        <tr id="Add-contact-form-to-a-page-as-a-widget">
             <td colspan="6">
                 <h3>Add contact form to any page as a widget</h3>
               <p>Widget is one of the coolest features in Magento 2. It’s even cooler when combined with <strong>Advanced Contact Form by Magezon</strong>. Using our extension, you can easily place your form as a widget on any page such as Homepage, Contact us page, About us Page, and so on. Utilize widget options such as Enable, Title, Google Captcha to make better forms.</p>
@@ -117,7 +117,7 @@
               <img class="mgz-hover-main" src="https://www.magezon.com/pub/media/advanced-contact-form/Advanced_contact_form_widget.png" alt="Add contact form to any page as a widget" title="">
             </td>
         </tr>
-        <tr>
+        <tr id="Integrate-Google-Captcha">
             <td colspan="6">
                 <img class="mgz-hover-main" src="https://www.magezon.com/pub/media/advanced-contact-form/Integrate_Google_Captcha.png" alt="Integrate Google Captcha" title="">
             </td>
@@ -126,10 +126,10 @@
               <p><strong>Magento 2 Advanced Contact Form</strong> adds Google Captcha to your form and protects your site from spam and other automated attacks. Google Captcha is a technology that helps verify authentic users from fake users. Better secure, better experience for both admin and users.</p>
             </td>
         </tr>
-        <tr>
+        <tr id="Compatible-with-Magezon-Page-Builder">
             <td colspan="6">
                 <h3>Compatible with Magezon Page Builder</h3>
-              <p><strong>Advanced Contact Form by Magezon</strong> provides compatibility with Magezon Page Builder. Both of the work together seamlessly.</p>
+              <p><strong>Advanced Contact Form by Magezon</strong> provides compatibility with Magezon Page Builder. Both of them work together seamlessly.</p>
             </td>
             <td colspan="6">
               <img class="mgz-hover-main" src="https://www.magezon.com/pub/media/advanced-contact-form/Compatible_with_Magezon_Page_Builder.png" alt="Compatible wIth Magezon Page Builder" title="">
@@ -326,20 +326,6 @@
                         <li>Contact us through <a title="Contact via Skype" href="skype:support@magezon.com" rel="nofollow">Skype</a></li>
                         <li>Contact us via live chat on our <a title="Magezon website" href="https://www.magezon.com" target="_blank" rel="noopener">website</a></li>
                     </ul>
-                </div>
-                <br/>
-                <h3 align="left">Payment FAQs</h3>
-                <div>
-                    <strong>How can I pay for your products?</strong>
-                    <p>Currently, we only support product payment via Paypal. However, we will consider other payment methods and notify you of this.</p>
-                </div>
-                <div>
-                    <strong>Can I get a refund after purchasing your product?</strong>
-                    <p>If you are unsatisfied with our product, you can ask for a refund within 30 days since you purchase. Please send your refund request by filling out <a title="Contact via contact form" href="https://www.magezon.com/contact/" target="_blank" rel="nofollow noopener">Contact Form</a>, emailing us at <a title="Contact via email" href="mailto:support@magezon.com">support@magezon.com</a>, or submitting a <a title="Contact via ticket" href="https://magezon.ticksy.com/" target="_blank" rel="nofollow noopener">ticket</a></p>
-                </div>
-                <div>
-                    <strong>Is your product purchased with one-time payment?</strong>
-                    <p>Yes, you just need to pay one time to get our product without monthly service or update cost or something like that.</p>
                 </div>
                 <br/>
                 <h3 align="left">License FAQs</h3>
