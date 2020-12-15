@@ -105,7 +105,7 @@
             <td colspan="6" align="center">
                 <h2>Ajax submission </h2>
                 <p>Ajax-enabled form allows visitors to simply click the send button and submit the form without reloading the page. It makes your site faster, more interactive, and user-friendly. A great way to enhance user experience!</p>
-                <p><br>Feel free to change, customize the loading icon to upgrade your site’s overall aesthetic. Icons in png, gif, and pdf are supported. </p>
+                <p><br>Feel free to change, customize the loading icon to upgrade your site’s overall aesthetic. Icons in png, gif, and jpg are supported. </p>
             </td>
         </tr>
         <tr id="Add-contact-form-to-a-page-as-a-widget">
@@ -210,7 +210,7 @@
             <td colspan="4">
                 <img src="https://www.magezon.com/pub/media/wysiwyg/knowledge-base-and-video-tutorials.png" alt="Magento 2 PDF Customizer | Knowledge Base and Video Tutorials" title="Magento 2 PDF Customizer | Knowledge Base and Video Tutorials" width="225" height="167">
                 <h3 align="center"> Knowledge Base and Video Tutorials </h3>
-                <p align="center">We provide Video Tutorials with visual guidance for using the extension. Besides, you can use <a href="https://magezon.com/pub/media/productfile/imagegallery-v1.0.0-user_guides.pdf" target="_blank" rel="nofollow">User Guide</a> for every tiny detail.</p>
+                <p align="center">We provide Video Tutorials with visual guidance for using the extension. Besides, you can use <a href="https://magezon.com/pub/media/productfile/advancedcontactform-user_guides.pdf" target="_blank" rel="nofollow">User Guide</a> for every tiny detail.</p>
             </td>
             <td colspan="4">
                <img class="mgz-hover-main" src="https://www.magezon.com/pub/media/admin-search/admin-search-extension-lifetime-updates.png" alt="LifeTime Updates Free of Charge" width="324" height="177" title="LifeTime Updates Free of Charge">
@@ -287,7 +287,7 @@
                 </div>
                 <div>
                     <strong>Can I use a loading icon in gif format?</strong>
-                    <p>Yes, Magento 2 Advanced Contact Form allows you to upload icons in png, gif, and pdf.</p>
+                    <p>Yes, Magento 2 Advanced Contact Form allows you to upload icons in png, gif, and jpg.</p>
                 </div>
                 <div>
                     <strong>Can I add fields to the form using this extension?</strong>
